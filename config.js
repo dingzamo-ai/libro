@@ -1,4 +1,4 @@
-const firebaseConfig = {
+window.FIREBASE_CONFIG = {
   apiKey: "AIzaSyDZ25IlIJ88ACD33MH7r4vt_Yjf9rmqxg0",
   authDomain: "our-ledger-98ace.firebaseapp.com",
   projectId: "our-ledger-98ace",
